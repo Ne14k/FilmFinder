@@ -1,1 +1,1 @@
-# Flick-Finder
+# Flick Finder
